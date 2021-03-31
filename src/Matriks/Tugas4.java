@@ -31,6 +31,7 @@ public class Tugas4 {
                 System.out.print(trans[i][j] + "\t");
             }
             System.out.println();
+            System.out.println("Muhamad Bani Nazar");
         }
     }   
 }
